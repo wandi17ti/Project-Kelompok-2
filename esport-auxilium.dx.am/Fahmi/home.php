@@ -70,7 +70,7 @@ body {font-family: "Lato", sans-serif}
 	<a href="">
   <div class="w3-row-padding w3-padding-64 w3-center">
     <div class="w3-quarter w3-button">
-      <img src="dota_logo.png" alt="ayam pop" style="width:100%;height:170px">
+      <img src="dota_logo.png" alt="dota2" style="width:100%;height:170px">
       <h3>DOTA 2</h3>
     </div>
 	</a>
@@ -87,7 +87,7 @@ body {font-family: "Lato", sans-serif}
     </div>
 	</a>
 	<div class="w3-quarter w3-button">
-      <img src="lol_logo.jpg" alt="hearthstone" style="width:100%;height:170px">
+      <img src="lol_logo.jpg" alt="league of legends" style="width:100%;height:170px">
       <h3>LOL</h3>
     </div>
 	</a>
