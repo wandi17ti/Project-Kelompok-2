@@ -35,7 +35,7 @@ body {font-family: "Lato", sans-serif}
   <div class="w3-container w3-content w3-center w3-padding-64 w3-white" style="max-width:1000px" id="About">
     <h2 class="w3-wide"><img src="logo.png" style="width:400px;height:60px"></h2>
     <p class="w3-opacity"><i>Your daily support for esports</i></p>
-    <p class="w3-justify">Welcome to esports-auxilum! your daily support for esports, head on to our tournament page to see the schedule of an ongoing tournament!
+    <p class="w3-justify">Welcome to esports-auxilium! your daily support for esports, head on to our tournament page to see the schedule of an ongoing tournament!
 	or head to our news page to read our daily updates news on esports, we are also selling esports related gear and merchandise for your need, just head out to our shop to see more! </p>
 	<br>
 	<br>
