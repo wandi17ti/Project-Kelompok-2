@@ -75,7 +75,11 @@ body {font-family: "Lato", sans-serif}
 	</a>
   </div>
   </div>
+  
+  <?php include 'grafik.php';?>
   	</div>
+	
+	
 
 
 

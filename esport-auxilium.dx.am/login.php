@@ -29,10 +29,10 @@ body {font-family: "Lato", sans-serif}
       <button>create</button>
       <p class="message">Already registered? <a href="#">Sign In</a></p>
     </form>
-    <form class="login-form">
+    <form class="login-form" action="//store.esport-auxilium.dx.am">
       <input type="text" placeholder="username"/>
       <input type="password" placeholder="password"/>
-      <a href="http://store.esport-auxilium.dx.am"><button>login</button></a>
+      <a href="//store.esport-auxilium.dx.am"><button>login</button></a>
       <p class="message">Not registered? <a href="#">Create an account</a></p>
     </form>
   </div>
